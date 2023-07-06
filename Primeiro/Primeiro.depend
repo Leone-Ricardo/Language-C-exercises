@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1644351999 source:c:\users\leone\documents\wscb\primeiro\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<bits/stdc++.h>
+	<climits>
+	<cmath>
+
